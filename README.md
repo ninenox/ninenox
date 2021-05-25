@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 EXPERIENCE
 ➢ 2008 Experience developed web frontend and backend PHP new coding & used CMS such as Drupal,Wordpress and Python used framework Django
+
 ➢ 2014 Experience developed Android & iOS applications with REST API & developed according to UI design.
 ➢ 2016 Experience in deployed & managing application on Google Playstore & iOS Appstore.
 ➢ 2016 Experience debugging & improving Android and iOS applications.
