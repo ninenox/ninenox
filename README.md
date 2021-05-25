@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Nisit Sirimarnkit, In 2020 Start job Computer Vision, Machine Learning /Deep Learing, Raspberry Pi and Mobile Application Development. 
 <!--
 **ninenox-dev/ninenox-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
