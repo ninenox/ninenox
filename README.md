@@ -2,7 +2,7 @@
 
 💬  I am mobile application developer and in 2020 I start a new job in Computer Vision, Machine Learning / Deep Learing.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninenox-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aninenox-dev&show_icons=true&theme=radical)
 
 <!--
 **ninenox-dev/ninenox-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
