@@ -9,7 +9,6 @@
 <hr />
 
 [![Donate](https://yourdonation.rocks/images/badge.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
-[![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
 
 
 
