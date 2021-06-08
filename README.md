@@ -7,13 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninenox-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
+[![Donate](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
 
 
 
