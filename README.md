@@ -4,11 +4,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninenox-dev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninenox-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninenox-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
 
 <hr />
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
+
 
 
 
