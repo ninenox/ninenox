@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninenox-dev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Donate
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9af403129a5e7)
 
 <!--
 **ninenox-dev/ninenox-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
