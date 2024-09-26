@@ -9,7 +9,6 @@
 <hr />
 
 Visitors: ![Visitor Count](https://profile-counter.glitch.me/ninenox-dev/count.svg)
-![visitor badge]([https://visitor-badge.lithub.cc/badge?page_id=lizheming.visitor-badge](https://profile-counter.glitch.me/ninenox-dev/count.svg))
 
 
 
