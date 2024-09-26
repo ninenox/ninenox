@@ -8,7 +8,8 @@
 
 <hr />
 
-Visitors: ![Visitor Count](https://profile-counter.glitch.me/ninenox-dev/count.svg)
+Visitors: 
+![Visitor Count](https://profile-counter.glitch.me/ninenox-dev/count.svg)
 
 
 
