@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Nisit+Sirimarnkit;AI+Engineer;Major+Computer+Vision)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Nisit+Sirimarnkit;AI+Engineer;Major+Computer+Vision)](https://git.io/typing-svg)<br/><br/>
 
 
 
