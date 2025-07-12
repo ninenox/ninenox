@@ -7,8 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninenox&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninenox&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-Visitors: <br/>
-![Visitor Count](https://profile-counter.glitch.me/ninenox/count.svg)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA)
 
