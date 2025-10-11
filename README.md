@@ -6,6 +6,9 @@
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20Edge%20AI-5a5" />
   <img alt="Location" src="https://img.shields.io/badge/Thailand-🇹🇭-555" />
 </div>
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-❤️_on_GitHub-blue?style=flat-square)](https://github.com/sponsors/ninenox)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕️_Buy_Me_a_Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/ninenox)
+
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&width=435&height=85&lines=Nisit+Sirimarnkit;AI+Engineer+|+Developer+Thailand;Major+Computer+Vision)](https://git.io/typing-svg)<br/>
