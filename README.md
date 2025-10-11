@@ -1,3 +1,5 @@
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-blue?style=flat-square)](https://github.com/sponsors/ninenox)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/ninenox)
 
 <div align="left">
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KQ3UD827YRQKA">
@@ -6,6 +8,7 @@
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20Edge%20AI-5a5" />
   <img alt="Location" src="https://img.shields.io/badge/Thailand-🇹🇭-555" />
 </div>
+
 
 ### Hi there 👋
 
