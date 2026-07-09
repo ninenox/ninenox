@@ -25,7 +25,7 @@
 
 | Certificate | Issuer | Details |
 | :--- | :--- | :--- |
-| **Super AI Engineer 2020** — 🥇 Gold Medal | AIAT (สมาคมปัญญาประดิษฐ์ประเทศไทย) | [View](./super_ai_cert.jpg) |
+| **Super AI Engineer 2020** — 🥇 Gold Medal | AIAT | [View](./super_ai_cert.jpg) |
 | **DeepLearning.AI TensorFlow Developer** | Coursera · DeepLearning.AI | [View](./tensorflow_cert.jpg) · [Verify](https://coursera.org/verify/professional-cert/KX467266N4GQ) |
 | **IBM Data Science Professional** | Coursera · IBM | [View](./ibm_ds_cert.jpg) · [Verify](https://coursera.org/verify/specialization/3KN5DQ5P4TZ6) |
 | **Computer Vision I (Python)** — Grade 96% | OpenCV.org | [View](./cv1_cert.png) |
