@@ -45,17 +45,7 @@
 | **IBM Data Science Professional** | Coursera · IBM | [View](./ibm_ds_cert.jpg) · [Verify](https://coursera.org/verify/specialization/3KN5DQ5P4TZ6) |
 | **Computer Vision I (Python)** — Grade 96% | OpenCV.org | [View](./cv1_cert.png) |
 
-<details>
-<summary>🖼️ Preview certificates</summary>
 
-<br/>
-
-<img alt="Super AI Engineer 2020 - Gold Medal" src="./super_ai_cert.jpg" width="420" />
-<img alt="DeepLearning.AI TensorFlow Developer" src="./tensorflow_cert.jpg" width="420" />
-<img alt="IBM Data Science Professional" src="./ibm_ds_cert.jpg" width="420" />
-<img alt="Computer Vision I (Python)" src="./cv1_cert.png" width="420" />
-
-</details>
 
 <hr />
 
