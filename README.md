@@ -18,10 +18,6 @@
 ### 🧑‍💻 About Me
 
 - 🔭 AI Engineer & Developer from Thailand 🇹🇭
-- 👁️ Specializing in **Computer Vision** and **Edge AI**
-- 🌱 Passionate about building intelligent systems that run efficiently on real-world hardware
-- 💬 Ask me about Computer Vision, Deep Learning, and TensorFlow
-- 📫 Reach me at **nashnox15@gmail.com**
 
 <hr />
 
