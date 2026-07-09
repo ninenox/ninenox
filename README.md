@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&center=true&width=435&height=85&lines=Nisit+Sirimarnkit;AI+Engineer+%7C+Developer+Thailand;Major+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&left=true&width=435&height=85&lines=Nisit+Sirimarnkit;AI+Engineer+%7C+Developer+Thailand;Major+Computer+Vision)](https://git.io/typing-svg)
 
 <img alt="Focus" src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20Edge%20AI-5a5?style=flat-square" />
 <img alt="Location" src="https://img.shields.io/badge/Thailand-%F0%9F%87%B9%F0%9F%87%AD-555?style=flat-square" />
